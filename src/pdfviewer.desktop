@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Viewer
+GenericName=Document Viewer
+Comment=Minimal PDF viewer (Qt WebEngine + PDF.js)
+Exec=pdfviewer %F
+Icon=application-pdf
+Terminal=false
+Categories=Office;Viewer;Qt;
+MimeType=application/pdf;
