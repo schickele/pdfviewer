@@ -11,7 +11,7 @@ Code generated with Claude. No credit on my side.
 - Print dialog
 
 ## Main differences from Okular
-- Better page rendering on lower-resolution screens
+- Better text rendering on lower-resolution screens
 - More PDF editing features (adding text and images)
 - Sane default printer settings
 - Slightly slower than Okular due to the underlying JavaScript layer. Barely noticeable on modern machines.
